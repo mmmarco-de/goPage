@@ -1,5 +1,7 @@
-body {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee&display=swap');
+
+* {
+  font-family: 'ABeeZee', Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .txt {
