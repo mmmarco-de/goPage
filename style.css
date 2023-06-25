@@ -5,7 +5,7 @@
 }
 
 .txt {
-  position: absolute;
+  position: absolute, sticky;
   bottom: 5px;
   right: 10px;
   font-size: 21px;
