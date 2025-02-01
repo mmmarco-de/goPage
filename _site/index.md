@@ -69,17 +69,8 @@ This site is hosted/deployed on Netlify
 
 To get started open goPage in a browser tab and click on the search engine you want to use. Than copy the URL of the site with the searchbar to the search engine of your choice. Then open your browser settings and set the URL to the new tab homepage URL.
 
-## Roadmap
-
-- [ ] Add Dark Mode
-- [ ] Update to a more modern and simple design
-- [ ] Update site structure
-- [ ] Release goPage<sup>2</sup>
-
 
 <!-- CONTACT -->
-
-## 
 
 <!-- 
 
