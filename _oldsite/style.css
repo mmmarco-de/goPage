@@ -4,17 +4,13 @@
   font-family: 'ABeeZee', Verdana, Geneva, Tahoma, sans-serif;
 }
 
-body {
-  background-color: #2f3136;
-}
-
 .txt {
   position: absolute;
   bottom: 5px;
   right: 10px;
   font-size: 21px;
   text-decoration: unset;
-  color: white;
+  color: black;
 }
 
 h1 {
@@ -31,7 +27,7 @@ h1 {
 
 input, .r {
   padding: 0px;
-  border: solid 2px white;
+  border: solid 2px black;
   width: 296px;
   margin-top: 5px;
   font-size: 17px;

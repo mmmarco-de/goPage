@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/mmmarco-de/goPage">
-    <img src="src/img/favicon.png" alt="Logo" width="128" height="128">
+    <img src="src/img/blueblack.png" alt="Logo" width="128" height="128">
   </a>
 
   <h1 align="center">goPage<sup>2</sup></h1>
@@ -22,7 +22,7 @@
   <p align="center">
     The search on your browser homepage - with a new style
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Use goPage<sup>2</sup> with DuckDuckGo»</strong></a>
+    <a href="https://gopage.mmmarco.de"><strong>Use goPage<sup>2</sup> with DuckDuckGo»</strong></a>
     <br />
   </p>
 </div>
@@ -34,7 +34,9 @@
 
 [**DuckDuckGo**](./duckduckgo/index.html) - safe and good
 
-[**Perplexity AI**](./perplexity/index.html) - the AI search engine
+[**Perplexity AI**](./perplexity/index.html) - the AI search engin
+
+[**goPage Legacy**](./original/index.html) - aka ePage (the original, using google)
 
 <br />
 
