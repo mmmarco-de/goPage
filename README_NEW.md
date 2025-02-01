@@ -91,7 +91,7 @@ Marco (mmmarco-de) [marco@mmmarco.de](mailto:marco@mmmarco.de)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGMENTS -->
+<!-- 
 
 ## Acknowledgments
 
@@ -107,3 +107,4 @@ Use this space to list resources you find helpful and would like to give credit 
 - [React Icons](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+-->
