@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/mmmarco-de/goPage">
-    <img src="_site/src/img/favicon.png" alt="Logo" width="128" height="128">
+    <img src="_site/src/img/blueblack.png" alt="Logo" width="128" height="128">
   </a>
 
   <h1 align="center">goPage</h1>
@@ -22,7 +22,7 @@
   <p align="center">
     The search on your browser homepage
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Open now »</strong></a>
+    <a href="https://gopage.mmmarco.de/"><strong>Open now »</strong></a>
     <br />
   </p>
 </div>
