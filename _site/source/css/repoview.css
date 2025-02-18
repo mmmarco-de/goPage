@@ -1,0 +1,39 @@
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: auto auto auto;
+  gap: 1% 2%;
+  grid-auto-flow: row;
+  grid-template-areas:
+    "repo-about repo-about repo-download"
+    "repo-readme repo-readme repo-readme"
+    "repo-files repo-files repo-details";
+}
+
+.repo-about {
+  grid-area: repo-about;
+}
+
+.repo-download {
+  grid-area: repo-download;
+}
+
+.repo-readme {
+  grid-area: repo-readme;
+}
+
+.repo-files {
+  grid-area: repo-files;
+}
+
+.repo-details {
+  grid-area: repo-details;
+}
+
+/*<div class="container">
+  <div class="repo-about"></div>
+  <div class="repo-download"></div>
+  <div class="repo-readme"></div>
+  <div class="repo-files"></div>
+  <div class="repo-details"></div>
+</div>*/
