@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/mmmarco-de/goPage">
-    <img src="src/img/blueblack.png" alt="Logo" width="128" height="128">
+    <img src="src/img/go.png" alt="Logo" width="128" height="128">
   </a>
 
   <h1 align="center">goPage<sup>2</sup></h1>
